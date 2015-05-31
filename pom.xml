@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.letsdeveloper.games</groupId>
   <artifactId>gameloop</artifactId>
-  <version>0.0.1</version>
+  <version>0.0.2-SNAPSHOT</version>
   <distributionManagement>
   	<repository>
   	  <id>ftp-letsdeveloper-release</id>
@@ -15,7 +15,7 @@
   </distributionManagement>
   <scm>
   	<connection>scm:git:git@github-ld:letsdeveloper/Lets-Develop-A-Game-Loop.git</connection>
-    <tag>gameloop-0.0.1</tag>
+    <tag>HEAD</tag>
   </scm>
   <dependencies>
   	<dependency>
